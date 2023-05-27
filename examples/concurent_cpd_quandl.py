@@ -8,7 +8,7 @@ from settings.default import (
     CPD_DEFAULT_LBW,
 )
 
-N_WORKERS = 10
+N_WORKERS = 1
 
 
 def main(lookback_window_length: int):
